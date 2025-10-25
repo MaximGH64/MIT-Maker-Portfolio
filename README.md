@@ -13,7 +13,7 @@ Over 5+ years of working with Arduino and embedded systems, I developed expertis
 - **Generative Animations:** Runs complex cellular automata (like Conway's Game of Life) and procedural animations.
 - **WiFi-Connected Clock:** Syncs with an NTP server for accurate time and features manual adjustment.
 - **Snake Game:** A complete, playable Snake game controlled by an analog joystick.
-- **Color-Sensing App:** Uses a TCS34725 sensor to detect and identify real-world colors (calibrated for a Rubik's Cube).
+- **Color-Sensing App:** Uses a TCS34725 color sensor to detect and identify real-world colors (calibrated for a Rubik's Cube).
 - **Live Weather Display:** Fetches and displays real-time weather data from the OpenWeatherMap API.
 - **Wireless Sensor Dashboard:** Receives and displays data (distance, temperature, humidity) from a separate, battery-powered transmitter module via ESP-NOW.
 

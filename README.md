@@ -1,6 +1,6 @@
 # Modular LED Dashboard System
 
-**Link:** https://github.com/MaximGH64/MIT-Maker-Portfolio
+**Video Link:** https://www.youtube.com/watch?v=7fWRQrGTQdY
 
 **Project Summary:** A modular LED dashboard system with 6 interactive applications, wireless sensor integration, and real-time generative animations. Built on the ESP32 platform with a 32x32 addressable LED matrix.
 

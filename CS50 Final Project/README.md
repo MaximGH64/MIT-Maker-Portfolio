@@ -1,5 +1,5 @@
 # Checkers AI
-#### Video Demo:  [Checkers AI](https://www.youtube.com/watch?v=JkKV1pq_zlE)
+
 #### Overview
 This project is a two-player checkers game implemented in Python using the pygame library. It allows a human player to play against a computer-controlled opponent. The program simulates the rules of checkers (with non-forced jumps), draws an interactive board, highlights valid moves, and uses an algorithm to generate computer moves.
 

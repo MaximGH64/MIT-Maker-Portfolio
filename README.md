@@ -115,3 +115,7 @@ All components are prototyped on breadboards. The display module features longer
 ## Development Insights
 
 The biggest technical challenge was memory management on the ESP32. Storing bitmaps efficiently and preventing stack overflow (with the global snake array) required careful planning. I also learned that high-current systems require more engineering: proper wire gauge, solid solder joints, and voltage drop calculations aren't optional at 60 amps. This project taught me that building reliable systems requires understanding the full stack, from bit-level color encoding to power distribution infrastructure.
+
+### Author
+Created by **Maxim Cherednyk**, aspiring Electrical and Computer Engineer.  
+This project was developed as part of my Maker Portfolio submission and showcases my work in embedded systems, real-time programming, and wireless communication using the ESP32 platform.
